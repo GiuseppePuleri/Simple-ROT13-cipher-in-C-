@@ -1,4 +1,4 @@
-# Simple-ROT13-cipher-in-C-
+# Simple-ROT13-cipher-in-CPP
 I have written a very simple function in C++ for the ROT-13 cipher. No external libraries are included. The code adjusts the position by adding the base ASCII value to convert it back to the correct character for printing.
 This program implements a basic **ROT13 cipher** for transforming lowercase alphabetic characters. ROT13 is a simple substitution cipher that shifts each letter by 13 positions in the alphabet. It works by swapping letters in pairs, so applying ROT13 twice will return the original text.
 
